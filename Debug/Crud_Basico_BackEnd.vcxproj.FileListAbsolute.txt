@@ -1,0 +1,4 @@
+D:\00Prog01\02Base\2C++\20Banco_MySQL\00Crud_Basico_BackEnd\Crud_Basico_BackEnd\Debug\Crud_Basico_BackEnd.exe
+D:\00Prog01\02Base\2C++\20Banco_MySQL\00Crud_Basico_BackEnd\Crud_Basico_BackEnd\Debug\Crud_Basico_BackEnd.pdb
+D:\00Prog01\02Base\2C++\20Banco_MySQL\00Crud_Basico_BackEnd\Debug\Crud_Basico_BackEnd.exe
+D:\00Prog01\02Base\2C++\20Banco_MySQL\00Crud_Basico_BackEnd\Debug\Crud_Basico_BackEnd.pdb

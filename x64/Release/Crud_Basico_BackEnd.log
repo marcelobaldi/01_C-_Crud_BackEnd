@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Gerando código
+D:\00Prog01\02Base\2C++\20Banco_MySQL\00Crud_Basico_BackEnd\databaseModel.h(110): warning C4715: 'DatabaseModel::findByEmail': nem todos os caminhos de controle retornam um valor
+  4 of 178 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Crud_Basico_BackEnd.vcxproj -> D:\00Prog01\02Base\2C++\20Banco_MySQL\00Crud_Basico_BackEnd\x64\Release\Crud_Basico_BackEnd.exe
